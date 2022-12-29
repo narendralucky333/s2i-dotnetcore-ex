@@ -4,7 +4,7 @@
 #
 ---
 apiVersion: tekton.dev/v1beta1
-kind: ClusterTask
+kind: Task
 metadata:
   name: s2i-dotnet-3-pr
   labels:
