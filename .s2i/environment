@@ -1,2 +1,2 @@
-dotnet=app/app.csproj
-dotnet=app.tests/app.tests.csproj
+dotnet-pipeline=app/app.csproj
+dotnet-pipeline=app.tests/app.tests.csproj
